@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/mainConrol.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/task1/t1_1.unity
+    guid: 3394f7a9d5a82dd4fb206925763b59f9
+  - enabled: 1
+    path: Assets/Scenes/task2/t2_1_mandatory.unity
+    guid: 40ccdb097c257024c91e43d29e614c2e
+  - enabled: 1
+    path: Assets/Scenes/task2/t2_2_optional.unity
+    guid: 6b398a299319b3e4c8a53a59e5730fb5
+  - enabled: 1
+    path: Assets/Scenes/task3/task3_1_mandatory.unity
+    guid: 554d11b89d526a44f8f7beaa691b4507
+  - enabled: 1
+    path: Assets/Scenes/task3/task3_2_opt_1.unity
+    guid: ded00b1adb71de14ab9a3ad0131d6401
+  - enabled: 1
+    path: Assets/Scenes/task3/task3_3_opt_3.unity
+    guid: dcd2140d94cc2174da3fb13628f97b9e
+  - enabled: 1
+    path: Assets/Scenes/task4/SolarSystem_1.unity
+    guid: 07ab9ba155d877545a110475c8016d15
+  m_configObjects: {}
